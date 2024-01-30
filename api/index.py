@@ -39,6 +39,3 @@ class handler(BaseHTTPRequestHandler):
         return
 
 
-
-
-
